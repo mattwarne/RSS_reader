@@ -1,9 +1,3 @@
-/*
-Description: Minimal styling for in-class exercise
-Author: PUT YOU NAME HERE
-Email: name@student.curtin.edu
-Tags: RSS Reader
-*/
 
 body {
   margin: 0;
@@ -12,7 +6,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Style the top navigation bar */
 header {
   width: 100%;
   overflow: hidden;
@@ -23,19 +16,16 @@ header {
 
 }
 
-/* Style the content */
 main {
   margin: 0 auto;
   width: 80%;
   padding: 20px;
 }
 
-/* Style the footer */
 footer {
   clear: both;
   text-align: center;
   width: 100%;
-  /* background-color: #f1f1f1; */
 }
 
 footer a {
